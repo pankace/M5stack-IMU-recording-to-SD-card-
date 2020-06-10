@@ -61,7 +61,7 @@ void setup()
   M5.Lcd.setBrightness(200); // Screen thinggey to show that it is working
   M5.Lcd.fillScreen(GREEN);  // Will be green if on ? idk dont have one to test on
 
-  delay(300);
+  delay(30000);
 
   //save files Cool Eh?
   writeFile(SD, "/acceleration.txt", "milligs,aX,aY,aZ");
