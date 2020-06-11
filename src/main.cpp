@@ -127,6 +127,8 @@ void setup()
   }
 }
 
+delay(30000);
+
 char chr;
 
 void loop()
