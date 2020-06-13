@@ -1,6 +1,6 @@
 # M5stack-IMU-recording-to-SD-card-
 An IMU sensor recording to sd card based on the esp 32 platform on the M5stack. 
-This is a really simple cpp application for the m5 stack if you could help improve it I’d be greatly appreciated 
+This is a really simple cpp application for the m5 stack if you could help improve it It’d be greatly appreciated 
 ```
 
  _____     ______     __   __     ______      ______     ______     ______     _____        __    __     ______       
